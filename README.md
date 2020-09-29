@@ -1,5 +1,4 @@
-Dashboard
-.
+Dashboard.
 ├── README.md
 ├── package.json
 ├── public
